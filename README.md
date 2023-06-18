@@ -1,6 +1,7 @@
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
-![Peek 2022-01-24 11-06]()
+![labu4bd](https://github.com/labu4bd/labu4bd/assets/6726366/a4d8879c-92b9-4d19-aa0d-165a671f99cf)
+
 
 # Tools used #
 * HTML, CSS and JavaScript
@@ -8,5 +9,5 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 * [Font Awesome 5](https://fontawesome.com/)
 * [google map](https://www.google.com/maps/@46.0593291,11.1330513,15z?entry=ttu)
 
-This is the [live demo](https://brad-portfolio.netlify.app/) of the project . 
+This is the [live demo](https://labu4bd.github.io/labu4bd/) of the project . 
 
